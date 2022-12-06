@@ -1,0 +1,8 @@
+- label: Menu
+  items:
+    - name: Mechanical
+      link: /mechanical/
+    - name: Electrical
+      link: /electrical/
+    - name: Software
+      link: /software/

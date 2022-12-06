@@ -1,0 +1,13 @@
+alignment: is-left
+style: is-boxed
+size: is-large
+items:
+  - name: What
+    link: /about/
+    icon: fa-comment
+  - name: Who
+    link: /engineers/
+    icon: fa-user
+  - name: Why
+    link: /motivation/
+    icon: fa-lightbulb-o
