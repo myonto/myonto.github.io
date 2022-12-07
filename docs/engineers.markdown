@@ -1,8 +1,7 @@
 ---
 title: About
 permalink: /engineers/
-layout: page
+layout: product-category
 tabs: tabs_about
 ---
-
-Hashem Alnader, Eric Chiang, Tom Cojocar, Vaibhav Patel, Raj Kumar
+The myonto system is a fourth year design project of a group of students from the University of Waterloo.

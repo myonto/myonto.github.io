@@ -7,18 +7,18 @@ items:
     description: >
       Feel free to move around and continue with your daily activities as treatment is applied.
     call_to_action_name: Learn More
-    call_to_action_link: /technical/
+    call_to_action_link: /mechanical/
   - title: Track 
     subtitle: your treatment, measure it's effectiveness.
     icon: fa-database
     description: >
       Our system will keep track of your treatment sessions while measuring how well you are responding to the procedure.
     call_to_action_name: Learn More
-    call_to_action_link: /technical/
+    call_to_action_link: /electrical/
   - title: Schedule
     subtitle: your next treatment intelligently
     icon: fa-calendar
     description: >
       With the collected data, our system will suggest a treatment schedule that maximizes the efficiency of the treatment while saving you time.
     call_to_action_name: Learn More
-    call_to_action_link: /technical/
+    call_to_action_link: /software/

@@ -28,7 +28,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 #theme: minima
-remote_theme: chrisrhymes/bulma-clean-theme
+remote_theme: halnader/bulma-clean-theme
 plugins:
   - github-pages
   - jekyll-feed
@@ -53,3 +53,10 @@ footer_menu: footer_menu
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+collections:
+  products: 
+    output: true
+    layout: product
+    image: https://via.placeholder.com/800x600
+    show_sidebar: false
